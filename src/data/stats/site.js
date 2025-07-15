@@ -6,14 +6,9 @@ import dayjs from 'dayjs';
  */
 const data = [
   {
-    label: 'Stars this repository has on github',
-    key: 'stargazers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
-  },
-  {
     label: 'Number of people watching this repository',
     key: 'subscribers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    link: 'https://github.com/khalvai/personal-site/stargazers',
   },
   {
     label: 'Number of forks',
@@ -36,7 +31,7 @@ const data = [
   {
     label: 'Last updated at',
     key: 'pushed_at',
-    link: 'https://github.com/mldangelo/personal-site/commits',
+    link: 'https://github.com/khalvai/personal-site/commits',
     format: (x) => dayjs(x).format('MMMM DD, YYYY'),
   },
   {
@@ -45,7 +40,7 @@ const data = [
     xargs -I file cat file | wc -l */
     label: 'Lines of Javascript powering this website',
     value: '2150',
-    link: 'https://github.com/mldangelo/personal-site/graphs/contributors',
+    link: 'https://github.com/khalvai/personal-site/graphs/contributors',
   },
 ];
 
