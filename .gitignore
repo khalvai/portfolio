@@ -39,6 +39,7 @@ node_modules
 # Webpack related
 public/dist/
 dist/
+build/
 tmp/
 
 # OSX
