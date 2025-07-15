@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://khalvai.com/",
+  "homepage": "https://khalvai.github.io/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/khalvai/personal-site.git"
+    "url": "https://github.com/khalvai/khalvai.github.io.git"
   },
   "engines": {
     "node": ">=16.x"
