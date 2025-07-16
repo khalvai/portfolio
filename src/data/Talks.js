@@ -1,17 +1,13 @@
 // TODO Add a couple lines about each project
 const data = [
-  // {
-  //   title: 'Nearest Dollar',
-  //   subtitle: '2015 BVP Hackathon',
-  //   link: 'https://devpost.com/software/harvest',
-  //   image: '/images/Talks/nearestdollar.jpg',
-  //   date: '202-11-20',
-  //   desc:
-  //     'Built for a social impact hackathon. ' +
-  //     'NearestDollar connected to your bank accounts, credit cards, ' +
-  //     'or debit cards and rounded up your purchases to donate the balance to ' +
-  //     'the charity of your choice.',
-  // },
+  {
+    title: 'Nearest Dollar',
+    subtitle: '2015 BVP Hackathon',
+    link: 'https://youtu.be/dvyBWnzyoqQ?si=Efx9AlIeBikUMiZW',
+    image: '/images/Talks/SoftwareArchitectureCost.jpg',
+    date: '2024-12-09',
+    desc: 'You can watch the video of the talk on YouTube by clicking on this post. I talked about the cost of software architecture and how it can be reduced by using the right tools and practices. I also discussed the importance of choosing the right architecture for your project and how it can impact the overall cost and maintainability of the software.',
+  },
   {
     title: 'Software Architecture',
     subtitle: 'Software Architecture Presentation',
@@ -21,7 +17,7 @@ const data = [
       'Talked about the meaning of architecture and why we need it '
       + ' Illustrated the history of software architecture and how it evolved. '
       + ' Showed some project in each of the architectures for better accomplishment '
-      + 'the charity of your choice.',
+      + ' the charity of your choice.',
   },
   {
     title: 'Design Patterns',
