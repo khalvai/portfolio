@@ -13,15 +13,41 @@
  */
 const work = [
   {
-    name: 'Promptfoo',
-    position: 'Co-founder & CTO',
-    url: 'https://promptfoo.dev',
-    startDate: '2024-07-01',
+    name: 'Intelika',
+    position: 'Software Engineer',
+    url: 'https://intelika.ai',
+    startDate: '2024-01-01',
     summary:
-      'Promptfoo builds open-source tools to evaluate, find, and fix vulnerabilities in large language models (LLMs). Our open-source tools are used by over 35,000 developers and researchers worldwide.',
+      'Acted as a backend developer working on a critical project, contributed to improve seed work (private framework) of the company and ensured that all developers agree.​',
     highlights: [
-      'Built and scaled engineering team, emphasizing diversity and open-source contribution',
-      'Established key partnerships with AI research institutions and tech companies',
+      'Shared knowledge and insights on patterns among coworkers.',
+      'Pioneered impleteing Domain model approach in the company and shared the knowledge how it can be beneficial.',
+    ],
+  },
+  {
+    name: 'Nobati',
+    position: 'Backend Developer',
+    url: 'https://noabati.app',
+    startDate: '2023-01-01',
+    endDate: '2024-01-01',
+    summary:
+      'An appointment management company offering tailored solutions for efficient scheduling and time management of business',
+    highlights: [
+      'Applied Domain-Driven Design (DDD) principles to discover bounded contexts.',
+      'Employed tactical pattern of DDD for having a framework for the system.',
+    ],
+  },
+  {
+    name: 'Azres Group',
+    position: 'Backend Developer',
+    url: 'https://github.com/Asrez',
+    startDate: '2022-02-01',
+    endDate: '2023-01-01',
+    summary:
+      'Consultancy company which offers web technology solutions to its clients. It focuses on providing creative solutions to solve problems with software infrastructure.',
+    highlights: [
+      'Developed APIs using protocols such as REST and GraphQL.',
+      'Used a N-layered architecture in NestJs.',
     ],
   },
 ];
