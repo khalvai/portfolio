@@ -1,47 +1,58 @@
 // TODO Add a couple lines about each project
 const data = [
+  // {
+  //   title: 'Nearest Dollar',
+  //   subtitle: '2015 BVP Hackathon',
+  //   link: 'https://devpost.com/software/harvest',
+  //   image: '/images/Talks/nearestdollar.jpg',
+  //   date: '202-11-20',
+  //   desc:
+  //     'Built for a social impact hackathon. ' +
+  //     'NearestDollar connected to your bank accounts, credit cards, ' +
+  //     'or debit cards and rounded up your purchases to donate the balance to ' +
+  //     'the charity of your choice.',
+  // },
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/Talks/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Software Architecture',
+    subtitle: 'Software Architecture Presentation',
+    image: '/images/Talks/SoftwareArchitecture.jpg',
+    date: '2024-05-30',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
+      'Talked about the meaning of architecture and why we need it '
+      + ' Illustrated the history of software architecture and how it evolved. '
+      + ' Showed some project in each of the architectures for better accomplishment '
       + 'the charity of your choice.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/Talks/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Design Patterns',
+    subtitle: 'Design Patterns Presentation',
+    image: '/images/Talks/design_pattern.jpg',
+    date: '2024-05-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Spoke about the applicants of patterns and empathized on its importance.  '
+      + 'Then, I showed some examples of pattern in my code base, making the project more maintainable. '
+      + 'In the end of meeting, I introduced some of books that attendance can read more in depth.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/Talks/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Clean Code',
+    subtitle: 'The Part Two of Clean Code Presentation',
+    image: '/images/Talks/clean_code_2024.jpg',
+    date: '2024-04-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras'
-       + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      ' Demonstrated real-world examples of bad code. '
+      + ' Discussed about how code structure might get out of hand '
+      + ' You can email me for slides.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/Talks/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Clean Code',
+    subtitle: 'Clean Code Presentation',
+    image: '/images/Talks/clean_code_2023.jpg',
+    date: '2023-02-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Talked about clean code principles.\n'
+      + ' Introduced references for reading further.'
+      + ' Discussed about the concept of refactoring'
+      + ' Over 40 students attended the workshop.',
   },
 ];
 
