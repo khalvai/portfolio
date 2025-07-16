@@ -2,7 +2,7 @@
 
 I am a Software Engineer at [Intelika](https://intelika.ai/), where we're building an interface to work with LLMs, offering AI-based services. Before Intelika, I was the Software Engineer at [Nobati](https://nobati.app/), where I led the development of tools that have helped over 40,000 people in Iran to manage their work appointments.
 
-In my spare time, I enjoy reading and sharing my ideas with people, focusing on projects with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
+In my spare time, I enjoy reading and sharing my ideas with people, focusing on Talks with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
 
 # Some History
 

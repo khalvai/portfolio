@@ -76,7 +76,7 @@ describe('renders the app', () => {
     expect(window.location.pathname).toBe('/resume');
   });
 
-  it('can navigate to /projects', async () => {
+  it('can navigate to /Talks', async () => {
     expect.assertions(3);
     const contactLink = document.querySelector(
       '#header > nav > ul > li:nth-child(3) > a'
@@ -85,8 +85,8 @@ describe('renders the app', () => {
     await act(async () => {
       await contactLink.click();
     });
-    expect(document.title).toContain('Projects |');
-    expect(window.location.pathname).toBe('/projects');
+    expect(document.title).toContain('Talks |');
+    expect(window.location.pathname).toBe('/Talks');
   });
 
   it('can navigate to /stats', async () => {

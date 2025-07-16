@@ -17,7 +17,8 @@ const work = [
     position: 'Co-founder & CTO',
     url: 'https://promptfoo.dev',
     startDate: '2024-07-01',
-    summary: 'Promptfoo builds open-source tools to evaluate, find, and fix vulnerabilities in large language models (LLMs). Our open-source tools are used by over 35,000 developers and researchers worldwide.',
+    summary:
+      'Promptfoo builds open-source tools to evaluate, find, and fix vulnerabilities in large language models (LLMs). Our open-source tools are used by over 35,000 developers and researchers worldwide.',
     highlights: [
       'Built and scaled engineering team, emphasizing diversity and open-source contribution',
       'Established key partnerships with AI research institutions and tech companies',
@@ -31,7 +32,7 @@ const work = [
     endDate: '2024-07-01',
     summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
     used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
-    I provide technical leadership on high-impact projects, influence and coach a distributed team of engineers,
+    I provide technical leadership on high-impact Talks, influence and coach a distributed team of engineers,
     and facilitate alignment and clarity across teams on goals, outcomes, and timelines. I was promoted
     from Director of Engineering to VP of Engineering in April 2022, and then to VP of Engineering and Head
     of AI in November 2022. I lead a 20+ person engineering org. I directly manage ~8 engineers and spend
@@ -163,7 +164,7 @@ const work = [
     endDate: '2014-10-01',
     highlights: [
       "Elected to Board of Directors of the USA's largest student space advocacy group based on 5+ years of work with SEDS.",
-      'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
+      'Responsibilities included: organizational strategy, conference presentations, fundraising, special Talks, promoting SEDS nationally and internationally, and photographing conferences.',
     ],
   },
   {
