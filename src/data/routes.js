@@ -14,7 +14,7 @@ const routes = [
   },
   {
     label: 'Talks',
-    path: '/Talks',
+    path: '/talks',
   },
   {
     label: 'Stats',

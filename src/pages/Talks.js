@@ -12,7 +12,7 @@ const Talks = () => (
       <header>
         <div className="title">
           <h2>
-            <Link to="/Talks">Talks</Link>
+            <Link to="/talks">Talks</Link>
           </h2>
           <p>A selection of Talks that I&apos;m not too ashamed of</p>
         </div>

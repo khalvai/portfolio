@@ -11,7 +11,7 @@ const skills = [
   },
   {
     title: 'gRPC',
-    competency: 4,
+    competency: 3,
     category: ['Protocols'],
   },
   {
@@ -21,7 +21,7 @@ const skills = [
   },
   {
     title: 'Node.JS',
-    competency: 5,
+    competency: 4,
     category: [],
   },
   {
@@ -41,28 +41,28 @@ const skills = [
   },
   {
     title: 'Express.JS',
-    competency: 6,
+    competency: 5,
     category: ['Frameworks'],
   },
   {
     title: 'Docker',
-    competency: 5,
+    competency: 4,
     category: ['Tools'],
   },
 
   {
     title: 'MVC',
-    competency: 9,
+    competency: 4,
     category: ['Architectures'],
   },
   {
     title: 'N-Layered Architecture',
-    competency: 8,
+    competency: 5,
     category: ['Architectures'],
   },
   {
     title: 'Hexagonal Architecture',
-    competency: 8,
+    competency: 4,
     category: ['Architectures'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
