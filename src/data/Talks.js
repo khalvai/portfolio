@@ -1,8 +1,8 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
+    title: 'Is high quality software architecture expensive?',
+    subtitle: 'Trade-offs in Software Architecture',
     link: 'https://youtu.be/dvyBWnzyoqQ?si=Efx9AlIeBikUMiZW',
     image: '/images/Talks/SoftwareArchitectureCost.jpg',
     date: '2024-12-09',
@@ -11,7 +11,7 @@ const data = [
   {
     title: 'Software Architecture',
     subtitle: 'Software Architecture Presentation',
-    image: '/images/Talks/SoftwareArchitecture.jpg',
+    image: '/images/Talks/software_architectures.jpg',
     date: '2024-05-30',
     desc:
       'Talked about the meaning of architecture and why we need it '
@@ -22,7 +22,7 @@ const data = [
   {
     title: 'Design Patterns',
     subtitle: 'Design Patterns Presentation',
-    image: '/images/Talks/design_pattern.jpg',
+    image: '/images/Talks/design_patterns.jpg',
     date: '2024-05-20',
     desc:
       'Spoke about the applicants of patterns and empathized on its importance.  '
