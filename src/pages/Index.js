@@ -12,11 +12,11 @@ const Index = () => (
             <Link to="/">About me</Link>
           </h2>
           <p className="home-about-me">
-            I am a software engineering student passionate about reading and
-            exploring new concepts. I am excited to share knowledge with those
-            who are interested. I have conducted workshops on the principles of
-            software engineering, sharing insights and engaging in discussions
-            with participants who are eager to learn.
+            I am a software engineering with 3 years of experience, passionate
+            about reading and exploring new concepts. I am excited to share
+            knowledge with those who are interested. I have conducted workshops
+            on the principles of software engineering, sharing insights and
+            engaging in discussions with participants who are eager to learn.
           </p>
         </div>
       </header>
