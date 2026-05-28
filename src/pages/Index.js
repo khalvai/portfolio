@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 const Index = () => (
-  <Main description="Khalvai Ozbek's personal website. Graduated from the university of Rafsanjan of Computer Engineering.">
+  <Main description="Khalvai Ozbek's personal website. A Reaseacher and Exploered in the field of Software Engineering and Architecture.">
     <article className="post" id="index">
       <header>
         <div className="title">
@@ -12,11 +12,12 @@ const Index = () => (
             <Link to="/">About me</Link>
           </h2>
           <p className="home-about-me">
-            I am a software engineering with 3 years of experience, passionate
-            about reading and exploring new concepts. I am excited to share
-            knowledge with those who are interested. I have conducted workshops
-            on the principles of software engineering, sharing insights and
-            engaging in discussions with participants who are eager to learn.
+            Backend Developer with +4 years of experience building scalable
+            TypeScript and Node.js systems, specialising in Domain-Driven Design
+            and Clean Architecture. Experienced in translating complex
+            architectural concepts into practical solutions, both in production
+            systems and through workshops on software design and clean code for
+            developer communities and universities.{' '}
           </p>
         </div>
       </header>

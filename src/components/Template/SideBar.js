@@ -22,12 +22,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Khalvai. I am a{' '}
-        <a href="https://vru.ac.ir/en/">Vali-e-Asr University</a> graduate,
-        Rafsanjan , and a software engineer at{' '}
-        <a href="https://inteliak.ai"> Intelika</a>. Previously, I was an
-        engineer at <a href="https://nobati.app"> Nobati.app</a>, and enthusiast of
-        reading and exploring new topics.
+        Hi, I&apos;m Khalvai. I am a enthusiast researcher and explorer in the
+        field of Software Engineering and Architecture.
       </p>
       <ul className="actions">
         <li>

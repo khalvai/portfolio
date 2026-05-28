@@ -1,6 +1,6 @@
 # Intro
 
-I am a Software Engineer at [Intelika](https://intelika.ai/), where we're building an interface to work with LLMs, offering AI-based services. Before Intelika, I was the Software Engineer at [Nobati](https://nobati.app/), where I led the development of tools that have helped over 40,000 people in Iran to manage their work appointments.
+Backend Developer with +4 years of experience building scalable TypeScript and Node.js systems, specialising in Domain-Driven Design and Clean Architecture. Experienced in translating complex architectural concepts into practical solutions, both in production systems and through workshops on software design and clean code for developer communities and universities.
 
 In my spare time, I enjoy reading and sharing my ideas with people, focusing on Talks with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
 
@@ -22,7 +22,7 @@ In my spare time, I enjoy reading and sharing my ideas with people, focusing on 
 
 - I started working at [Nobati](https://nobati.app/) in 2023 as a backend engineer. I worked on a project that helps people manage their work appointments.
 
-- Then, started working at [Intelika](https://intelika.ai/) in 2023 as a software engineer and still working there.
+- Then, started working at [Lexika](https://lexika.ai/) in 2023 as a software engineer and still working there.
 
 # I Like
 
