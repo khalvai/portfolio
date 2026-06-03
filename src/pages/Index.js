@@ -12,7 +12,7 @@ const Index = () => (
             <Link to="/">About me</Link>
           </h2>
           <p className="home-about-me">
-            Backend Developer with +4 years of experience building scalable
+            Backend Developer withn nearly 5 years of experience building scalable
             TypeScript and Node.js systems, specialising in Domain-Driven Design
             and Clean Architecture. Experienced in translating complex
             architectural concepts into practical solutions, both in production
