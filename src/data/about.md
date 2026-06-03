@@ -1,6 +1,6 @@
 # Intro
 
-Backend Developer with +4 years of experience building scalable TypeScript and Node.js systems, specialising in Domain-Driven Design and Clean Architecture. Experienced in translating complex architectural concepts into practical solutions, both in production systems and through workshops on software design and clean code for developer communities and universities.
+Backend Developer with nearly 5 of experience building scalable TypeScript and Node.js systems, specialising in Domain-Driven Design and Clean Architecture. Experienced in translating complex architectural concepts into practical solutions, both in production systems and through workshops on software design and clean code for developer communities and universities.
 
 In my spare time, I enjoy reading and sharing my ideas with people, focusing on Talks with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
 
