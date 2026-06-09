@@ -1,5 +1,10 @@
 const skills = [
   {
+    title: 'AWS',
+    competency: 4,
+    category: ['Cloud Providers'],
+  },
+  {
     title: 'Javascript',
     competency: 4,
     category: ['Languages'],
